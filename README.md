@@ -1,6 +1,6 @@
 
 
-AI-Powered Automated Email Reply Generator with Chrome Extension
+Smart_AI-Powered Automated Email Reply Generator with Chrome Extension
 
 A smart AI assistant built to generate real-time, context-aware email replies right inside Gmail. 
 This project combines full-stack development, AI integration, and Chrome Extension magic to create a productivity booster for anyone overwhelmed by their inbox.
